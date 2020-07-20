@@ -20,4 +20,6 @@ def printer(attendees)
   binding.pry
 end
 
+attendees = ["Bobulus", "Romulus", "Jobulus"]
+
 printer(attendees)
